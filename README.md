@@ -20,4 +20,5 @@ G:\eval_tum>evaluate_rpe.py e:\slamData\rgbd_dataset_freiburg1_rpy\ggmvo.txt e:\
 Do it for ATE in the same way.
 
 # To cite 
+Yao Zhigang et al. Direct RGB-D visual odometry with point features. Intelligent Service Robotics, 2024: 1-13.
 Yao Zhigang et al. RGB-D Visual Odometry via Low Order Gaussian Gradient Metrics. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.22132544.v1
